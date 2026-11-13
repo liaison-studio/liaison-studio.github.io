@@ -1,1 +1,1 @@
-# liaison-studio.github.io
+Liaison Studio — applications pour apprendre et communiquer en confiance
