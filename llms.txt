@@ -1,0 +1,61 @@
+# Liaison Studio
+
+> Liaison Studio publishes apps for learning and for flying: high-school maths and physics (France), preparation for the "concours commun" entrance exam of the French IEP (Sciences Po in the regions), and head tracking with voice commands and an instructor for flight simulators. Contact: liaison.studio.contact [at] gmail [dot] com
+
+The site has no cookies, no trackers and no external scripts; installation videos load from YouTube (youtube-nocookie.com) only when the visitor presses play. Each app has a page, an FAQ, requirements, a support page and a development journal (RSS).
+
+## Apps
+
+### Maths & Physique
+- Status: en test; platforms: iOS, iPadOS; languages: fr
+- For: Lycéens de Première et Terminale (spécialité maths, physique-chimie) et leurs parents.
+- What it does: Un cours intégré, des copies corrigées critère par critère et le suivi des erreurs qui reviennent — pour travailler les maths et la physique-chimie au lycée.
+- [Maths & Physique](https://liaison-studio.github.io/maths-physique/): app page
+- [FAQ](https://liaison-studio.github.io/maths-physique/faq/) · [Requirements](https://liaison-studio.github.io/maths-physique/requirements/) · [Journal](https://liaison-studio.github.io/maths-physique/journal/) · [Support](https://liaison-studio.github.io/maths-physique/support/)
+- Method guides (in fr):
+  - [Automatismes de l'EAM : s'entraîner sans calculatrice](https://liaison-studio.github.io/maths-physique/methode/automatismes-eam/): Préparer la partie automatismes de l'épreuve anticipée de maths : format de juin 2027, entraînement quotidien et erreurs fréquentes sans calculatrice.
+  - [Calcul littéral, équations, inéquations : méthode (EAM)](https://liaison-studio.github.io/maths-physique/methode/calcul-litteral-equations/): Développer, factoriser, résoudre une équation ou une inéquation, étudier un signe : la méthode pour l'épreuve anticipée de maths et les erreurs fréquentes.
+  - [Dérivation en Première : méthode et erreurs fréquentes](https://liaison-studio.github.io/maths-physique/methode/derivation/): Nombre dérivé, tangente, dérivées usuelles, signe de la dérivée et variations : la méthode rédigée pour l'épreuve anticipée de maths et les erreurs fréquentes.
+  - [Fonctions et lecture graphique : méthode et erreurs (EAM)](https://liaison-studio.github.io/maths-physique/methode/fonctions-lecture-graphique/): Image, antécédent, signe, variations, résolution graphique, coefficient directeur : lire un graphique sans erreur à l'épreuve anticipée de maths.
+  - [Fractions, puissances, racines : calculer sans calculatrice](https://liaison-studio.github.io/maths-physique/methode/calcul-numerique-sans-calculatrice/): Automatismes de l'épreuve anticipée de maths : fractions, priorités, puissances, racines, écriture scientifique. Règles, pièges et entraînement quotidien.
+  - [Pourcentages et évolutions : méthode et erreurs (EAM)](https://liaison-studio.github.io/maths-physique/methode/pourcentages-evolutions/): Taux d'évolution, coefficient multiplicateur, évolutions successives et réciproques : la méthode sans calculatrice pour l'épreuve anticipée de maths.
+  - [Préparer l'EAM 2027 : l'épreuve anticipée de maths en Première](https://liaison-studio.github.io/maths-physique/methode/preparer-eam-2027/): L'épreuve anticipée de mathématiques de juin 2027 : format officiel, thèmes à travailler, méthode et erreurs fréquentes par chapitre, et un plan de préparation.
+  - [Probabilités conditionnelles : arbre, tableau, erreurs (EAM)](https://liaison-studio.github.io/maths-physique/methode/probabilites-conditionnelles/): Probabilité conditionnelle, arbre pondéré, probabilités totales, indépendance : la méthode pour l'épreuve anticipée de maths et les confusions à éviter.
+  - [Quand une formule ne s'applique pas : les conditions de validité](https://liaison-studio.github.io/maths-physique/methode/conditions-de-validite/): Maths et physique-chimie au lycée : les conditions de validité des formules les plus utilisées, et les erreurs fréquentes quand on les applique hors domaine.
+  - [Rédiger une copie de physique-chimie : la méthode en 8 étapes](https://liaison-studio.github.io/maths-physique/methode/rediger-copie-physique-chimie/): Rédiger une copie de physique-chimie au lycée sans perdre de points : annonce, modèle, loi et validité, calcul littéral, application numérique, conclusion.
+  - [Rédiger une démonstration en maths au lycée : règles et erreurs](https://liaison-studio.github.io/maths-physique/methode/rediger-demonstration-maths/): Rédiger une démonstration en spécialité maths : déclarer les objets, annoncer, citer le théorème et ses hypothèses, conclure. Les erreurs qui coûtent cher.
+  - [Second degré en Première : méthode et erreurs fréquentes](https://liaison-studio.github.io/maths-physique/methode/second-degre/): Forme canonique, discriminant, racines, factorisation et signe d'un trinôme : la méthode rédigée pour l'épreuve anticipée de maths et les erreurs fréquentes.
+  - [Suites numériques en Première : méthode et erreurs fréquentes](https://liaison-studio.github.io/maths-physique/methode/suites-numeriques/): Suites arithmétiques et géométriques, terme général, sommes, variations, modèles discrets : la méthode pour l'épreuve anticipée de maths et les pièges.
+
+### Parcours IEP – Concours commun
+- Status: en test; platforms: iOS, iPadOS; languages: fr
+- For: Lycéens qui préparent le concours commun des IEP (Sciences Po en régions) et leurs parents.
+- What it does: Une préparation structurée au concours commun des IEP : méthode, entraînement et corrections détaillées, à son rythme.
+- [Parcours IEP – Concours commun](https://liaison-studio.github.io/parcours-iep/): app page
+- [FAQ](https://liaison-studio.github.io/parcours-iep/faq/) · [Requirements](https://liaison-studio.github.io/parcours-iep/requirements/) · [Journal](https://liaison-studio.github.io/parcours-iep/journal/) · [Support](https://liaison-studio.github.io/parcours-iep/support/)
+- Method guides (in fr):
+  - [Analyse de documents en histoire : la méthode en quatre gestes](https://liaison-studio.github.io/parcours-iep/methode/analyse-de-documents-histoire/): Analyser deux documents d'histoire au concours commun des IEP : présenter, prélever, confronter, critiquer — et éviter la paraphrase, piège le plus fréquent.
+  - [Anglais au concours commun IEP : compréhension et essai](https://liaison-studio.github.io/parcours-iep/methode/anglais-concours-commun/): Réussir l'anglais du concours commun : répondre « in your own words », construire un essai d'environ 300 mots, éviter les erreurs typiques des francophones.
+  - [Avons-nous des devoirs envers les animaux ? Méthode pour la QC](https://liaison-studio.github.io/parcours-iep/methode/vivant-animaux/): QC 2027, thème « Le vivant » : comment traiter un sujet sur les animaux, de l'animal-machine à l'animal sensible, avec les conflits d'usage et le droit actuel.
+  - [Construire la paix après la guerre : 1815, 1919, 1945](https://liaison-studio.github.io/parcours-iep/methode/paix-construire-apres-la-guerre/): QC 2027, thème « La paix » : traiter un sujet sur la paix imposée ou négociée, avec les traités de 1815, 1919 et l'après-1945 comme arguments.
+  - [L'homme fait-il partie du vivant ? Méthode pour la QC](https://liaison-studio.github.io/parcours-iep/methode/vivant-homme-et-nature/): QC 2027, thème « Le vivant » : comment traiter un sujet sur la place de l'homme dans la nature, de Descartes à Darwin, sans réciter un cours de philosophie.
+  - [La paix armée : dissuasion et guerre froide](https://liaison-studio.github.io/parcours-iep/methode/paix-armee-guerre-froide/): QC 2027, thème « La paix » : traiter un sujet sur la dissuasion et la paix armée, avec la guerre froide, la crise de Cuba et le désarmement comme repères.
+  - [La paix par le droit : SDN, ONU, justice internationale](https://liaison-studio.github.io/parcours-iep/methode/paix-par-le-droit/): QC 2027, thème « La paix » : traiter un sujet sur la paix par le droit et les institutions, de Kant à l'ONU, sans tomber dans le récit ni le cynisme.
+  - [Les erreurs fréquentes au concours commun des IEP](https://liaison-studio.github.io/parcours-iep/methode/erreurs-frequentes-concours-commun/): Les erreurs qui coûtent le plus de points au concours commun des IEP, épreuve par épreuve — questions contemporaines, histoire, anglais — et comment les éviter.
+  - [Méthode de la question contemporaine (concours commun IEP)](https://liaison-studio.github.io/parcours-iep/methode/question-contemporaine/): Réussir la dissertation de questions contemporaines : analyser le sujet, trouver une vraie problématique, construire un plan qui progresse, gérer trois heures.
+  - [Science et vivant : où fixer les limites ? Méthode pour la QC](https://liaison-studio.github.io/parcours-iep/methode/vivant-limites-de-la-science/): QC 2027, thème « Le vivant » : traiter un sujet sur le pouvoir de la science sur le vivant (génome, bioéthique, précaution) avec une vraie problématique.
+  - [Thème « La paix » (QC 2027) : notions, débats, préparation](https://liaison-studio.github.io/parcours-iep/methode/theme-la-paix/): Préparer le thème « La paix » du concours commun 2027 : définitions, débats, références, sujets d'entraînement, erreurs fréquentes et calendrier.
+  - [Thème « Le vivant » (QC 2027) : notions, débats, préparation](https://liaison-studio.github.io/parcours-iep/methode/theme-le-vivant/): Préparer le thème « Le vivant » du concours commun 2027 : définitions, débats, références, sujets d'entraînement, erreurs fréquentes et calendrier.
+  - [Thèmes QC 2027 : « La paix » et « Le vivant »](https://liaison-studio.github.io/parcours-iep/methode/themes-qc-2027/): Les deux thèmes de questions contemporaines du concours commun 2027, annoncés le 16 juillet 2026 : comment les préparer et calendrier jusqu'au 24 avril 2027.
+
+### Head Tracker+Voice+Instructor
+- Status: en test; platforms: iOS, Windows; languages: en, fr, ru, de, it
+- For: Flight simulator pilots on a Windows PC: IL-2 Sturmovik and Microsoft Flight Simulator.
+- What it does: Head tracking with your iPhone, no infrared camera or clips — with voice commands and an instructor working together in one system.
+- [Head Tracker+Voice+Instructor](https://liaison-studio.github.io/head-tracker+voice+instructor/en/): app page
+- [FAQ](https://liaison-studio.github.io/head-tracker+voice+instructor/en/faq/) · [Requirements](https://liaison-studio.github.io/head-tracker+voice+instructor/en/requirements/) · [Journal](https://liaison-studio.github.io/head-tracker+voice+instructor/en/journal/) · [Support](https://liaison-studio.github.io/head-tracker+voice+instructor/en/support/)
+- [Installation, step by step, with videos](https://liaison-studio.github.io/head-tracker+voice+instructor/en/installation/)
+- Other languages: [EN](https://liaison-studio.github.io/head-tracker+voice+instructor/en/), [FR](https://liaison-studio.github.io/head-tracker+voice+instructor/fr/), [RU](https://liaison-studio.github.io/head-tracker+voice+instructor/ru/), [DE](https://liaison-studio.github.io/head-tracker+voice+instructor/de/), [IT](https://liaison-studio.github.io/head-tracker+voice+instructor/it/)
+
+## Journal
+- [All development notes](https://liaison-studio.github.io/journal/) ([RSS](https://liaison-studio.github.io/journal/rss.xml))

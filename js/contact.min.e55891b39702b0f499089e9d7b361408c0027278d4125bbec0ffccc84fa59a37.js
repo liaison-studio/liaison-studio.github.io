@@ -1,0 +1,1 @@
+document.querySelectorAll(".contact[data-u]").forEach(function(e){var s=function(e){return e.split(" ").map(function(e){return String.fromCharCode(parseInt(e,16))}).reverse().join("")},t=s(e.dataset.u),n=document.createElement("a");e.dataset.d?(t+="@"+s(e.dataset.d),n.href="mailto:"+t):n.href="tel:"+t.replace(/\s/g,""),n.textContent=t,e.replaceWith(n)})
