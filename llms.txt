@@ -52,10 +52,10 @@ The site has no cookies, no trackers and no external scripts; installation video
 - Status: en test; platforms: iOS, Windows; languages: en, fr, ru, de, it
 - For: Flight simulator pilots on a Windows PC: IL-2 Sturmovik and Microsoft Flight Simulator.
 - What it does: Head tracking with your iPhone, no infrared camera or clips — with voice commands and an instructor working together in one system.
-- [Head Tracker+Voice+Instructor](https://liaison-studio.github.io/head-tracker+voice+instructor/en/): app page
-- [FAQ](https://liaison-studio.github.io/head-tracker+voice+instructor/en/faq/) · [Requirements](https://liaison-studio.github.io/head-tracker+voice+instructor/en/requirements/) · [Journal](https://liaison-studio.github.io/head-tracker+voice+instructor/en/journal/) · [Support](https://liaison-studio.github.io/head-tracker+voice+instructor/en/support/)
-- [Installation, step by step, with videos](https://liaison-studio.github.io/head-tracker+voice+instructor/en/installation/)
-- Other languages: [EN](https://liaison-studio.github.io/head-tracker+voice+instructor/en/), [FR](https://liaison-studio.github.io/head-tracker+voice+instructor/fr/), [RU](https://liaison-studio.github.io/head-tracker+voice+instructor/ru/), [DE](https://liaison-studio.github.io/head-tracker+voice+instructor/de/), [IT](https://liaison-studio.github.io/head-tracker+voice+instructor/it/)
+- [Head Tracker+Voice+Instructor](https://head-tracker-voice-instructor.com/en/): app page
+- [FAQ](https://head-tracker-voice-instructor.com/en/faq/) · [Requirements](https://head-tracker-voice-instructor.com/en/requirements/) · [Journal](https://head-tracker-voice-instructor.com/en/journal/) · [Support](https://head-tracker-voice-instructor.com/en/support/)
+- [Installation, step by step, with videos](https://head-tracker-voice-instructor.com/en/installation/)
+- Other languages: [EN](https://head-tracker-voice-instructor.com/en/), [FR](https://head-tracker-voice-instructor.com/fr/), [RU](https://head-tracker-voice-instructor.com/ru/), [DE](https://head-tracker-voice-instructor.com/de/), [IT](https://head-tracker-voice-instructor.com/it/)
 
 ## Journal
 - [All development notes](https://liaison-studio.github.io/journal/) ([RSS](https://liaison-studio.github.io/journal/rss.xml))
